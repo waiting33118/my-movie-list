@@ -1,5 +1,6 @@
 # Movie List	:movie_camera:
 ***A simple web application for movie fanatic***
+
 ![GitHub Logo](/photo/index.png)
 
 ## Features	:briefcase:
