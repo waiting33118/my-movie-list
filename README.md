@@ -1,5 +1,5 @@
 # Movie List	:movie_camera:
-###***A simple web application for movie fanatic***
+***A simple web application for movie fanatic***
 
 ## Features	:briefcase:
 - [x] listing movies from movie api
